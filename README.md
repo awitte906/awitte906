@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aleesha, but you can call me Ali!
-- 👀 I’m interested in data analysis currently, but in the future I'd love to learn more front-end development.
+- 👀 I’m interested in data analysis currently; but in the future I'd love to learn more front-end development.
 - 🌱 I’m currently learning SQL and Python.
 - 💞️ I’m looking to build connections in the data analysis community. 
 - 📫 How to reach me : message me on LinkedIn
